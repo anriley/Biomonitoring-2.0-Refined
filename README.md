@@ -2,7 +2,7 @@
 This code was created to process MetaWorks output and create clusters that are bound by taxonomic assignments.
 
 After running MetaWorks with results option 2, you will need to take the ESV.table, taxonomy.csv, and chimera.denoised.nonchimeras.taxon files. Do not change their names.
-Place these files in a directory, in this example Data/.
+Place these files in a directory, in this example Data/. If using Data/ included in this repository unzip ESV.zip and make sure it is named ESV.table.
 If you want to perform alignment filtering include the option -a, MAFFT must be installed and included in your path.
 Use option -d to provide the directory of the input files. Use the option -o to provide the directory for the output files. This can be the same directory.
 
