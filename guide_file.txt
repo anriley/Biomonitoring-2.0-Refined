@@ -1,0 +1,3 @@
+Amplicons:F230R,MLJG
+Filters:100
+Taxonomy:Species,0.8
