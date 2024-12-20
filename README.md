@@ -1,4 +1,4 @@
-# Species_bound_clusters
+# Biomonitoring 2.0 Refined
 This code was created to process MetaWorks output and create clusters that are bound by taxonomic assignments.
 
 After running MetaWorks with results option 2, you will need to take the ESV.table, taxonomy.csv, and chimera.denoised.nonchimeras.taxon files. Do not change their names.
