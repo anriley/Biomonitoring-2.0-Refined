@@ -34,3 +34,4 @@ Files with the "split" and "split_summary" suffix provide information on taxonom
 ```
 python3 filter_cluster_and_search.py -d Data/ -g guide_file.txt
 ```
+R scripts are included to show how Tables and Figures were generated. The script setup_parameters.R must be run first, followed by community_and_population_tables_dms.R
