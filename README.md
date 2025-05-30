@@ -46,5 +46,5 @@ In review
 
 Or cite the repository:
 
-Riley, Andrew C. (2025, May 19). Biomonitoring 2.0 Refined. Zenodo. http://doi.org/10.5281/zenodo.15546739
+Riley, Andrew C. (2025, May 18). Biomonitoring 2.0 Refined. Zenodo. http://doi.org/10.5281/zenodo.15546739
 
