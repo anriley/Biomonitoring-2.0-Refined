@@ -1,4 +1,6 @@
 # Biomonitoring 2.0 Refined
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15546739.svg)](https://doi.org/10.5281/zenodo.15546739)
+
 This code was created to process MetaWorks output and create clusters that are bound by taxonomic assignments.
 
 After running MetaWorks with results option 2, you will need to take the ESV.table, taxonomy.csv, and chimera.denoised.nonchimeras.taxon files. Do not change their names.
@@ -35,3 +37,14 @@ Files with the "split" and "split_summary" suffix provide information on taxonom
 python3 filter_cluster_and_search.py -d Data/ -g guide_file.txt
 ```
 R scripts are included to show how Tables and Figures were generated. The script setup_parameters.R must be run first, followed by community_and_population_tables_dms.R
+
+## How to cite
+
+If you use any of the provide scripts please cite the Biomonitoring 2.0 paper:
+
+In review
+
+Or cite the repository:
+
+Riley, Andrew C. (2025, May 19). Biomonitoring 2.0 Refined. Zenodo. http://doi.org/10.5281/zenodo.15546739
+
