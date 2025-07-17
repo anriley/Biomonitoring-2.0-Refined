@@ -42,7 +42,7 @@ R scripts are included to show how Tables and Figures were generated. The script
 
 If you use any of the provide scripts please cite the Biomonitoring 2.0 paper:
 
-In review
+Riley, A.C., Wright, M., Porter, T.M. et al. Biomonitoring 2.0 Refined: observing local change through metaphylogeography using a community-based eDNA metabarcoding monitoring network. BMC Biol 23, 187 (2025). https://doi.org/10.1186/s12915-025-02284-x
 
 Or cite the repository:
 
